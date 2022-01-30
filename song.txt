@@ -8,3 +8,4 @@ git reset soft
 
 git revert
 
+new branch
