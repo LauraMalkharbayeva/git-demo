@@ -1,2 +1,6 @@
 hello world
 привет мир
+git gui check
+git ammend
+git add for ammend
+git reset soft
