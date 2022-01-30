@@ -1,9 +1,10 @@
 hello world
 привет мир
+<<<<<<< HEAD
 git gui check
 git ammend
 git add for ammend
 git reset soft
 
 git revert
----------------
+
