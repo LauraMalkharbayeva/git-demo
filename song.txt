@@ -8,5 +8,3 @@ git reset soft
 
 git revert
 
-git revert commit
-
