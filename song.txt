@@ -4,7 +4,10 @@ hello world
 git gui check
 git ammend
 git add for ammend
+<<<<<<< HEAD
 git reset soft
 
 git revert
 
+
+git revert one more time
