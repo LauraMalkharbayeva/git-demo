@@ -4,3 +4,6 @@ git gui check
 git ammend
 git add for ammend
 git reset soft
+
+git revert
+---------------
